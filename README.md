@@ -10,7 +10,7 @@ Exploring Programming & Tech
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/godot.png" alt="godot"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
